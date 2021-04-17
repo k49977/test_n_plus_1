@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  post: one
+  positive_count: 1
+  negative_count: 1
+
+two:
+  name: MyString
+  post: two
+  positive_count: 1
+  negative_count: 1
